@@ -101,6 +101,7 @@ Check contrbuting guidelines of [AASF-IIITM](https://github.com/AASF-IIITM/AASF-
     * [Combination](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/Combination.cpp)
     * [PrimsALgortihm](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/PrimsAlgorithm.cpp)
     * [LowestCommonAncestor](https://github.com/AASF-IIITM/algorithms/blob/master/C%2B%2B/LowestCommonAncestor.cpp)
+    * [IsPowerOfTwo](https://github.com/ayushi2820/algorithms/blob/master/isPowerOfTwo.cpp)
     
 * Java
     * [BinarySearch](https://github.com/AASF-IIITM/algorithms/blob/master/Java/BinarySearch.java)
